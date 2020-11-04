@@ -1,6 +1,9 @@
 
 # Employee Overview Template  ![License](<https://img.shields.io/badge/license-MIT License-green>)
 
+![cli screenshot](./screenshots/cli.jpg)
+![html screenshot](<./screenshots/example team.jpg>)
+
 ## Description
 An easy way to track and organize the hierarchy of your team. This is a CLI app that creates a HTML file that displays a nicely formatted team roster based on user input. 
 
